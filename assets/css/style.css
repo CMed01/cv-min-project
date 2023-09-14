@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700&family=Roboto:wght@100;300;400;500;700;900&display=swap');
 
-
 /*--------------------------------------------Colors*/
 
 .bg-color-name-title {
@@ -388,7 +387,7 @@ button[type="submit"] {
 }
 
 /*--------------------------------------------Map*/
-div#map {
+div #map {
     min-height: 360px;
 }
 
